@@ -25,7 +25,7 @@ Although RSVP is ES6 compliant, it does bring along some extra toys. If you woul
 
 `RSVP.Promise` is an implementation of
 [Promises/A+](http://promises-aplus.github.com/promises-spec/) that passes the
-[test suite](https://github.com/promises-aplus/promises-tests).
+[test suite](https://github.com/samuelbetio/promises-tests).
 
 It delivers all promises asynchronously, even if the value is already
 available, to help you write consistent code that doesn't change if the
