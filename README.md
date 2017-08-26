@@ -13,7 +13,7 @@ It works in node and the browser (IE6+, all the popular evergreen ones).
 
 ## Promises
 
-Although RSVP is ES6 compliant, it does bring along some extra toys. If you would prefer a strict ES6 subset, I would suggest checking out our sibling project https://github.com/samuelbetio/es6-promise, It is RSVP but stripped down to the ES6 spec features.
+Although RSVP is ES6 compliant, it does bring along some extra toys. If you would prefer a strict ES6 subset, I would suggest checking out our sibling project https://github.com/stefanpenner/es6-promise, It is RSVP but stripped down to the ES6 spec features.
 
 ## Bower
 
@@ -25,7 +25,7 @@ Although RSVP is ES6 compliant, it does bring along some extra toys. If you woul
 
 `RSVP.Promise` is an implementation of
 [Promises/A+](http://promises-aplus.github.com/promises-spec/) that passes the
-[test suite](https://github.com/samuelbetio/promises-tests).
+[test suite](https://github.com/promises-aplus/promises-tests).
 
 It delivers all promises asynchronously, even if the value is already
 available, to help you write consistent code that doesn't change if the
