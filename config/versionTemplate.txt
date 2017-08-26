@@ -1,7 +1,7 @@
 /*!
  * @overview RSVP - a tiny implementation of Promises/A+.
- * @copyright Copyright (c) 2016 Yehuda Katz, Tom Dale, Stefan Penner and contributors
+ * @copyright Copyright (c) 2017 Samuel Betio, City of Bayawan and contributors
  * @license   Licensed under MIT license
- *            See https://raw.githubusercontent.com/tildeio/rsvp.js/master/LICENSE
+ *            See https://raw.githubusercontent.com/samuelbetio/rsvp.js/master/LICENSE
  * @version   VERSION_PLACEHOLDER_STRING
  */
