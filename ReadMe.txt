@@ -14,7 +14,7 @@ Release Date:
 
 Author: 
 =======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+Samuel Betio at Samuel Betio Studio (https://goo.gl/kzpNNL)
 
 Contact:
 =======================================================================
