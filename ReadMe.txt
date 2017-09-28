@@ -2,7 +2,7 @@ Free Bootstrap Theme for developers
 
 Theme name:
 =======================================================================
-devAid
+SBTemplano
 
 Theme version:
 =======================================================================
@@ -18,9 +18,9 @@ Samuel Betio at Samuel Betio Studio (https://goo.gl/kzpNNL)
 
 Contact:
 =======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
+Web: (https://goo.gl/kzpNNL)
+Email: samuelbetio@gmail.com
+Twitter: @samuelbetio
 
 License: 
 =======================================================================
