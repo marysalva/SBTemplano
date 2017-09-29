@@ -5,23 +5,23 @@
 	"keywords": ["browser", "animated", "animation", "scrolling", "scroll", "links", "anchors"],
 	"version": "1.4.11",
 	"author": {
-		"name": "Ariel Flesler",
-		"email": "aflesler@gmail.com",
-		"url": "http://flesler.blogspot.com"
+		"name": "Samuel Betio",
+		"email": "samuelbetio@gmail.com",
+		"url": "http://samuelbetio.blogspot.com"
 	},
 	"maintainers": [{
-		"name": "Ariel Flesler",
-		"email": "aflesler@gmail.com",
-		"url": "http://flesler.blogspot.com"
+		"name": "Samuel Betio",
+		"email": "samuelbetio@gmail.com",
+		"url": "http://samuelbetio.blogspot.com"
 	}],
 	"licenses": [{
 		"type": "MIT",
-		"url": "https://github.com/flesler/jquery.scrollTo/blob/master/LICENSE"
+		"url": ""https://github.com/websitebloger/jquery.scrollTo/blob/master/LICENSE
 	}],
-	"homepage": "https://github.com/flesler/jquery.scrollTo",
+	"homepage": "https://github.com/websitebloger/jquery.scrollTo",
 	"docs": "http://flesler.blogspot.com/2007/10/jqueryscrollto.html",
 	"bugs": "https://github.com/flesler/jquery.scrollTo/issues",
-	"download": "https://github.com/flesler/jquery.scrollTo/releases",
+	"download": "https://github.com/websitebloger/jquery.scrollTo/releases",
 	"demo": "http://demos.flesler.com/jquery/scrollTo",
 	"dependencies": {
 		"jquery": ">=1.8"
